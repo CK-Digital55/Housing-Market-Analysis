@@ -13,4 +13,4 @@ The project leverages housing data to solve complex issues such as predicting ma
 
 ### Dependencies
 - R version 3.6 or higher
-- Required R packages: (List any R packages that need to be installed)
+  
