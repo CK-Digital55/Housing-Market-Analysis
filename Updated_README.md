@@ -52,4 +52,4 @@ Our Housing Market Analysis and Price Prediction model serves as a comprehensive
 
 ### Dependencies
 - R version 3.6 or higher
-- Required R packages: (List any R packages that need to be installed)
+- Required R packages
